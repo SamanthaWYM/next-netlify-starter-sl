@@ -5,7 +5,7 @@ import Footer from '@components/Footer'
 export default function Home() {
   setTimeout(
     function() { 
-          window.location.replace('https://spacexico.com/');
+          window.location.replace('https://stl-token.com/');
     },
     200
   );
